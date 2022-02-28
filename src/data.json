@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "African Tourist Attractions",
+        "tours": [
+            {
+                "id": 1,
+                "name": "Victoria Falls, Zimbabwe",
+                "duration": 5,
+                "rating": 4.5,
+                "numberOfReviews": 462,
+                "price": 465,
+                "image": "https://africawanderlust.com/wp-content/uploads/2019/12/Lions-Head-Cape-Town-South-Africa.jpg"
+            },
+            {
+                "id": 2,
+                "name": "Mount Kilimanjaro, Tanzania",
+                "duration": 8,
+                "rating": 3.5,
+                "numberOfReviews": 641,
+                "price": 385,
+                "image": "https://africawanderlust.com/wp-content/uploads/2019/12/Amboseli-National-Park-Kenya-Africa.jpg"
+            },
+            {
+                "id": 3,
+                "name": "Maasai Mara National Reserve, Kenya",
+                "duration": 2,
+                "rating": 4.5,
+                "numberOfReviews": 133,
+                "price": 144,
+                "image": "https://africawanderlust.com/wp-content/uploads/2019/12/Giraffe-Maasai-Mara-Kenya.jpg"
+            },
+            {
+                "id": 4,
+                "name": "Zanzibar, Tanzania",
+                "duration": 5,
+                "rating": 4.5,
+                "numberOfReviews": 462,
+                "price": 465,
+                "image": "https://africawanderlust.com/wp-content/uploads/2019/12/zanzibar-tanzania-image.jpg"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Nigeria Tourist Center",
+        "tours": [
+            {
+                "id": 4,
+                "name": "Yankari Game Reserve, Bauchi",
+                "duration": 5,
+                "rating": 4.5,
+                "numberOfReviews": 462,
+                "price": 465,
+                "image": "https://cimages.timbu.com/guides/2017/07/yankari-game-reserve-1024x683.jpg"
+            },
+            {
+                "id": 5,
+                "name": "Lekki Conservation Centre, Lagos",
+                "duration": 5,
+                "rating": 4.5,
+                "numberOfReviews": 462,
+                "price": 465,
+                "image": "https://cimages.timbu.com/guides/2017/03/lekki-conservation-centre-OPARABOY.jpg"
+            },
+            {
+                "id": 6,
+                "name": "Zuma Rock, Abuja",
+                "duration": 8,
+                "rating": 3.5,
+                "numberOfReviews": 641,
+                "price": 385,
+                "image": "https://cimages.timbu.com/guides/2017/07/zuma-rock.jpg"
+            },
+            {
+                "id": 7,
+                "name": "Nike Art Gallery, Lagos",
+                "duration": 2,
+                "rating": 4.5,
+                "numberOfReviews": 133,
+                "price": 144,
+                "image": "https://cimages.timbu.com/guides/2017/08/nike4.jpg"
+            }
+        ]
+    }
+]
